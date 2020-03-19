@@ -1,0 +1,21 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-sight-words-prod-10432-authRole",
+            "UnauthRoleArn": "arn:aws:iam::790771004342:role/amplify-sight-words-prod-10432-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::790771004342:role/amplify-sight-words-prod-10432-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-sight-words-prod-10432-deployment",
+            "UnauthRoleName": "amplify-sight-words-prod-10432-unauthRole",
+            "StackName": "amplify-sight-words-prod-10432",
+            "StackId": "arn:aws:cloudformation:us-east-1:790771004342:stack/amplify-sight-words-prod-10432/79e706a0-69a7-11ea-91eb-0a6641f83659",
+            "AmplifyAppId": "d1p6qyxivyn9vm"
+        },
+        "categories": {
+            "auth": {
+                "sightwords7a3a1add": {},
+                "sightwords86fd0e8e": {}
+            }
+        }
+    }
+}
