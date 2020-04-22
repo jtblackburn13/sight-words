@@ -5,12 +5,6 @@
 			"providerPlugin": "awscloudformation"
 		}
 	},
-	"auth": {
-		"sightwords86fd0e8e": {
-			"service": "Cognito",
-			"providerPlugin": "awscloudformation",
-			"dependsOn": [],
-			"customAuth": false
-		}
-	}
+	"auth": {},
+	"api": {}
 }
